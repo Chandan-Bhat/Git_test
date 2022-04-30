@@ -1,0 +1,44 @@
+body{
+    background: url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");
+    margin: 9px;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 34px;
+    width: 50%;
+    position: relative;
+    left: 225px;
+    top: 5px;
+    text-decoration: underline;
+    text-decoration-color: #e69a36;
+}
+
+h3 {
+    font-family: cursive;
+    font-size: 21px;
+    text-decoration: underline;
+}
+
+.ov {
+    /*position: fixed;
+    top: 150px;*/
+    width: fit-content;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #e69a36;
+}
+
+.ov h3 {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
+
+.ov ul{
+    position: relative;
+    bottom: 14px;
+    right: 11px;
+}

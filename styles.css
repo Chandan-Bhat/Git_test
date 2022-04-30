@@ -7,7 +7,7 @@ h1 {
     text-align: center;
     font-family: cursive;
     font-size: 40px;
-    color: #4b371c;
+    color: #000000;
     position: relative;
     bottom: 15px;
 }
@@ -19,14 +19,14 @@ h1 {
     background-color: transparent;
     border-width: 3.5px;
     border-style: solid;
-    border-color: #715531;
+    border-color: #000000;
     /*overflow: hidden;*/
     border-radius: 5px;
 }
 
 .navbar a {
     float: left;
-    color: #715531;
+    color: #000000;
     text-align: center;
     padding: 12px 14px;
     text-decoration: none;
@@ -43,7 +43,7 @@ h1 {
     height: 34px;
     border-radius: 5px;
     background-color: transparent;
-    border-color: #715531;
+    border-color: #000000;
     border-width: 3px;
     border-style: solid;
 }
@@ -53,14 +53,14 @@ h1 {
     bottom: 9px;
     width: 100%;
     right: 13px;
-    color: #715531;
+    color: #000000;
     text-align: center;
     font-size: 18px;
     font-weight: bold;
 }
 
 .navbar .butt:hover {
-    background-color: #715531;
+    background-color: #e69a36;
 }
 
 .navbar .butt .log:hover {
@@ -68,7 +68,7 @@ h1 {
 }
 
 .navbar .val:hover {
-    background-color: #715531;
+    background-color: #e69a36;
     color: #f2f2f2;
 }
 
