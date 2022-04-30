@@ -1,6 +1,6 @@
 body{
     background: url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");
-    margin: 9px;
+    margin: 25px;
 }
 
 h2 {
@@ -8,7 +8,7 @@ h2 {
     font-size: 34px;
     width: 50%;
     position: relative;
-    left: 225px;
+    left: 5px;
     top: 5px;
     text-decoration: underline;
     text-decoration-color: #e69a36;
@@ -21,8 +21,8 @@ h3 {
 }
 
 .ov {
-    /*position: fixed;
-    top: 150px;*/
+    position: relative;
+    top: 10px;
     width: fit-content;
     border-width: 4px;
     border-style: solid;
@@ -41,4 +41,17 @@ h3 {
     position: relative;
     bottom: 14px;
     right: 11px;
+}
+
+.ing h3 {
+    position: relative;
+    left: 5px;
+}
+
+.ing ul {
+    list-style: none;
+    transform: scale(1.05);
+    position: relative;
+    bottom: 4px;
+    left: 15px;
 }
